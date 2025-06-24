@@ -7,16 +7,27 @@
 ### - crear un producto nuevo, 
 ### - eliminar un producto. 
 ## Para iniciar se escribe en la terminal: 
-´´´bash
+```bash
 npm start menu 
-´´´
+```
 ###  * se mostrará un menu con las opciones: 
-###    npm start GET
+```bash
+npm start GET
+```
 ###     * para ver la lista completa de productos
-###    npm start GET y el número del producto (ej.: npm start GET 5)
+###    npm start GET y el número del producto 
+```bash
+npm start GET 5
+```
 ###     * para obtenerlo 
-###    npm start POST el producto, el precio y la categoría (ej.: npm start POST computadora 4000 informática)
+###    npm start POST el producto, el precio y la categoría 
+```bash
+npm start POST computadora 4000 informática
+```
 ###     * para crearlo 
-###    npm start DELETE y el número del producto (ej.: npm start DELETE 4) 
+###    npm start DELETE y el número del producto 
+```bash
+npm start DELETE 4
+```
 ###     * para eliminarlo
 
