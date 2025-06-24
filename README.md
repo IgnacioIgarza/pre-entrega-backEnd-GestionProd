@@ -10,22 +10,26 @@
 ```bash
 npm start menu 
 ```
-###  * se mostrará un menu con las opciones: 
+###  * se mostrará un menu con las opciones.
+
 ```bash
 npm start GET
 ```
 ###     * para ver la lista completa de productos
-###    npm start GET y el número del producto 
+
+###    npm start GET y el número del producto. Ej.: 
 ```bash
 npm start GET 5
 ```
 ###     * para obtenerlo 
-###    npm start POST el producto, el precio y la categoría 
+
+###    npm start POST el producto, el precio y la categoría. Ej.:
 ```bash
 npm start POST computadora 4000 informática
 ```
 ###     * para crearlo 
-###    npm start DELETE y el número del producto 
+
+###    npm start DELETE y el número del producto. Ej.:
 ```bash
 npm start DELETE 4
 ```
